@@ -3,7 +3,7 @@
 <!-- 헤더 이미지 추가 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:90e0ef&height=300&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontColor=ffffff)
 
-## 👋 안녕하세요! 저는 데이터 분석가 **[배진현]**입니다.
+## 👋 안녕하세요! 저는 데이터 분석가 [배진현]입니다.
 
 ### 🚀 기술 스택:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
